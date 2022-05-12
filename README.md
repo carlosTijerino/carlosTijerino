@@ -1,5 +1,9 @@
 ### Hi there, I'm CarlosTijerino 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
+</div>
+
 <!--
 **carlosTijerino/carlosTijerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +24,7 @@ Here are some ideas to get you started:
 - :computer: iOS developer with objetive c & swift
 
 
-# Connect with me
+### Connect with me
 
-# Technology stack
+
+### Technology stack
