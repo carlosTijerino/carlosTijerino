@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I´m a mobile iOS developer, I like movies and listening to music
+### I´m a mobile iOS developer, I like movies and listening to music
 - :mortar_board: Computer Systems Engineer (Instituto tecnologico de veracruz)
 - :computer: iOS developer with objetive c & swift
 
