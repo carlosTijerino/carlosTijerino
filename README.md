@@ -1,6 +1,8 @@
 ### Hi there, I'm Carlos Tijerino 👋
 
 <div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=carlosTijerino&style=flat-square&color=blue" alt=""/>
+  <br>
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="100" align="left"/>
 </div>
 
@@ -37,8 +39,6 @@ Here are some ideas to get you started:
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=carlosTijerino&style=flat-square&color=blue" alt=""/>
 </div>
 
 
