@@ -1,9 +1,10 @@
-### Hi there, I'm CarlosTijerino 👋
+### Hi there, I'm Carlos Tijerino 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="100" align="left"/>
 </div>
 
+<br>
 <!--
 **carlosTijerino/carlosTijerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
