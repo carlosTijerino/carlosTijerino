@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### I´m a mobile iOS developer, I like movies and listening to music
 - :mortar_board: Computer Systems Engineer (Instituto tecnologico de veracruz)
-- :computer: iOS developer with objetive c & swift
+- :computer: iOS developer with Objetive-C & swift
 
 
 ### Connect with me
@@ -38,6 +38,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=carlosTijerino&style=flat-square&color=blue" alt=""/>
 
 
 ### Technology stack
