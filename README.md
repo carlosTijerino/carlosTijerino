@@ -1,9 +1,10 @@
-### Hi there, I'm Carlos Tijerino 👋
-
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=carlosTijerino&style=flat-square&color=blue" alt="" align="left"/>
   <br>  
 </div>
+
+### Hi there, I'm Carlos Tijerino 👋
+<br>
 
 ### I´m a mobile iOS developer, I like movies and listening to music
 
@@ -18,8 +19,6 @@
     <br>
   </div>
 </div>
-
-
 
 <br>
 <br>
