@@ -8,8 +8,8 @@
 
 ### I´m a mobile iOS developer, I like movies and listening to music
 - :mortar_board: Computer Systems Engineer (Instituto tecnologico de veracruz)
-- :computer: iOS developer with Objetive-C & swift
-- :man: passionate about programming
+- :computer: iOS developer with Objetive-C & Swift
+- :man: Passionate about programming
 
 <br>
 <br>
@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/carlos-tijerino-1b384076">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.facebook.com/carlos.tijerinocapetillo/">
     <img src="https://img.shields.io/badge/FaceBook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook Badge"/>
   </a>
   <a href="your-twitter-URL">
