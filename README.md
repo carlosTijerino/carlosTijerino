@@ -6,22 +6,6 @@
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="100" align="left"/>
 </div>
 
-###
-<!--
-**carlosTijerino/carlosTijerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### I´m a mobile iOS developer, I like movies and listening to music
 - :mortar_board: Computer Systems Engineer (Instituto tecnologico de veracruz)
 - :computer: iOS developer with Objetive-C & swift
@@ -60,7 +44,7 @@ Here are some ideas to get you started:
   
 </div>
 
-### :fire: My Stats :
+### :bar_chart: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carlosTijerino&theme=dark-smoky&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
