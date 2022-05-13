@@ -4,8 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=carlosTijerino&style=flat-square&color=blue" alt="" align="left"/>
   <br>
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="100" align="left"/>
-  <br>
-  <br>
 </div>
 
 ### I´m a mobile iOS developer, I like movies and listening to music
@@ -16,6 +14,8 @@
 ### Connect with me
 
 <div id="badges">
+  <br>
+  <br>
   <a href="https://www.linkedin.com/in/carlos-tijerino-1b384076">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
