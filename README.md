@@ -52,14 +52,8 @@
 
 ### :zap: My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carlosTijerino&theme=blood-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosTijerino&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=carlosTijerino&count_private=true&theme=tokyonight&showicons=true)]()
+<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosTijerino&langs_count=5&theme=ayu-mirage)]()
 
 
