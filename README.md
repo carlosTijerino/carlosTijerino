@@ -56,5 +56,5 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosTijerino&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosTijerino&layout=compact&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
