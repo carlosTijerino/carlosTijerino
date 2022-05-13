@@ -27,6 +27,8 @@
   </a>
 </div>
 
+<br>
+<br>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -42,13 +44,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Git" **alt="Git" width="40" height="40"/>
- 
-  
 </div>
+
+<br>
+<br>
 
 ### :bar_chart: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carlosTijerino&theme=dark-smoky&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosTijerino&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
