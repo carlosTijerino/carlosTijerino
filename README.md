@@ -2,18 +2,23 @@
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=carlosTijerino&style=flat-square&color=blue" alt="" align="left"/>
-  <br>
-  
-</div>
-
-<div class="row">
-  <div class="column"><img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="100" align="left"/></div>
-  <div class="column">- :mortar_board: Computer Systems Engineer (Instituto tecnologico de veracruz)
-- :computer: iOS developer with Objetive-C & Swift
-- :man: Passionate about programming</div>
+  <br>  
 </div>
 
 ### I´m a mobile iOS developer, I like movies and listening to music
+
+<div class="row">
+  <div class="column"><img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="100" align="left"/></div>
+  <div class="column">
+    - :mortar_board: Computer Systems Engineer (Instituto tecnologico de veracruz)
+    <br>
+    - :computer: iOS developer with Objetive-C & Swift
+    <br>
+    - :man: Passionate about programming
+    <br>
+  </div>
+</div>
+
 
 
 <br>
