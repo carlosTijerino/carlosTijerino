@@ -4,6 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=carlosTijerino&style=flat-square&color=blue" alt="" align="left"/>
   <br>
   <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="100" align="left"/>
+  <br>
+  <br>
 </div>
 
 ### I´m a mobile iOS developer, I like movies and listening to music
