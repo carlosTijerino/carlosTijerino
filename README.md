@@ -1,10 +1,9 @@
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://komarev.com/ghpvc/?username=carlosTijerino&style=flat-square&color=blue" alt="" align="left"/>
   <br>  
 </div>
 
 ### Hi there, I'm Carlos Tijerino 👋
-<br>
 
 ### I´m a mobile iOS developer, I like movies and listening to music
 
