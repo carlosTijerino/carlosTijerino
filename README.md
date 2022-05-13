@@ -10,12 +10,12 @@
 - :mortar_board: Computer Systems Engineer (Instituto tecnologico de veracruz)
 - :computer: iOS developer with Objetive-C & swift
 
+<br>
+<br>
 
 ### Connect with me
 
 <div id="badges">
-  <br>
-  <br>
   <a href="https://www.linkedin.com/in/carlos-tijerino-1b384076">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
